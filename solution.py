@@ -15,7 +15,7 @@ with open('test-A/out.tsv', 'w', encoding='utf-8') as out_test:
         out_test.write(x)
 
 with open('dev-0/out.tsv', 'w', encoding='utf-8') as out_dev:
-    for x in test.readlines():
+    for x in dev.readlines():
         x = x.lower()
         for b, a in dictionary:
             x = x.replace(a, b)
