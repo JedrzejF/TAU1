@@ -1,0 +1,188 @@
+stay;krást
+steal;nevlastní otec
+stepfather;stále
+stone;kámen
+stop ;pøestat
+storm;bouøka
+storyteller   ;vypravìè
+straight;rovnı
+strange;neobvyklı
+strawberry;jahoda
+remove;odstranit
+street;ulice
+stress;vypìtí
+stressful;stresující
+stubborn;tvrdohlavı
+stunt;kaskadérskı kousek
+stylist;kadeøník
+subject;pøedmìt
+subtract;odeèíst
+combat;boj
+success;úspìch
+successful;úspìšnı
+such;takovı
+sugar;cukr
+suite;souprava (nábytku)
+summary;shrnutí
+sun cream;krém na opalování
+sunglasses;sluneèní brıle
+sunset;západ slunce
+sunshine;sluneèní záøe
+suntan;opálenı
+super;senzaèní
+superlative;vynikající
+support ;podporovat
+suppose;pøedpokládat
+survive;pøeít
+suspect;podezøelı
+swap;vymìnit
+Sweden;Švédsko
+Swedish;švédskı
+swimming costume;dámské plavky
+swimming trunks;pánské plavky
+swimsuit;plavky
+Sydney;Sydney
+syllable;slabika
+symbol;symbol
+system;systém
+take off;vzlétnout
+take over;zabrat (území)
+tank (of  water);cisterna (vody)
+tarantula;tarantule
+tax;daò
+teach;uèit
+teacher;uèitel
+technical;technickı
+teenage;dospívající
+telly (TV);televize (neformálnì)
+temporary;doèasnı
+terribly;strašnì
+test;zkouška
+the sixties;šedesátá léta
+theatre;divadlo
+theatre play;divadelní hra
+theft;kráde
+themselves;se
+thief;zlodìj
+thirties;tøicátá léta
+tiger;tygr
+till;a do
+tiring;únavnı
+toe;prst (na noze)
+tolerate;snášet
+toothpaste;zubní pasta
+be;bıt
+topic;téma
+touch;hmat
+tour;okruní cesta
+tourism;cestovní ruch
+towel;ruèník
+toy;hraèka
+trade;obchod
+trade union  ;odborová organizace
+tradition;zvyklost
+traditional;tradièní
+traffic jam;dopravní zácpa
+training;vıcvik
+translate;pøeloit
+traveller;turista
+treetop;koruna stromu
+trend;tendence
+trial;soudní proces
+trick;lest
+tropical;tropickı
+trouble;nesnáze
+try on;vyzkoušet si
+turn off;zahnout
+turn up (appear);objevit se
+twin;dvojèe
+typewriter;psací stroj
+unattractive;nepøitalivı
+unbelievable;neuvìøitelnı
+unconscious;v bezvìdomí
+uncountable;nespoèetnı
+underground;podzemní
+underwater;podvodní
+unemployment;nezamìstnanost
+unemployment benefit;pøíspìvek v nezamìstnanosti
+unfortunately;naneštìstí
+unlucky;nešastnı
+unprofessional;neprofesionální
+unreliable;nespolehlivı
+unselfish;nesobeckı
+unsure;nejistı
+unusual;nezvyklı
+update;aktualizace
+upset;rozmrzelı
+usual;bìnı
+usually;bìnì
+vampire;upír
+van;dodávka
+vegetarian;vegetarián
+version;verze
+vet ;zkr. veterináø
+vicious circle;bludnı
+victim ;obì
+video   ;video
+videophone;televizní telefon
+view;pohled
+viewer;divák
+visitor;host
+voice;hlas
+vowel;samohláska
+wake  ;vzbudit se
+war;válka
+waste;plıtvání
+watch;sledovat
+wave ;mávat
+way;cesta
+website;internetové stránky
+weekly;tıdnì
+weird;tajuplnı
+well-known;známı
+west;západ
+wheel;kolo
+whereabouts;místo
+wherever  ;kdekoliv
+whisky;whisky
+whole;celı
+wide;rozlehlı
+wire;drát
+wives;manelky
+women;eny
+wonder;zajímat se
+wonderful;bájeènı
+worker;pracovník
+workman;dìlník
+workplace;pracovištì
+worldwide;celosvìtovı
+worm;èerv
+worried;ustaranı
+worry;dìlat si starosti
+worrying;znepokojující
+worse;horší
+worst;nejhorší
+worth;mající cenu
+yeah;jo
+yes;ano
+yet;ještì
+yoga;jóga
+yours;patøící
+but;ale
+so;tak
+although;aèkoli
+where;kde
+who;kdo
+today;dnes
+tomorrow;zítra
+or;nebo
+for example;napøíklad
+for;pro
+letter;dopis
+is;je
+over;nad
+red;èervenı
+blue;modrı
+because;protoe
+subject;pøedmìt
+name;jméno
